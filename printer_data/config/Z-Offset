@@ -1,0 +1,19 @@
+[PETG]
+ z_offset = 1.635
+[PETG_PEI_Sat.]
+ z_offset = 1.610
+ z_offset = 1.590
+ z_offset = 1.570
+ z_offset = 1.540
+[PETG_PEI_glatt]
+ z_offset = 1.390
+
+[PETG_CarbonBED]
+ z_offset = 1.440
+
+[PLA_CarbonBED]
+ z_offset = 1.430
+
+[PLA_DiamondBED]
+ z_offset = 1.440
+ z_offset = 1.400
